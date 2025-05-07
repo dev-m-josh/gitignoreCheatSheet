@@ -1,1 +1,5 @@
 passwords.txt
+.env
+backup.bak
+console.log
+node_modules
