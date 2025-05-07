@@ -19,4 +19,4 @@ common patterns used in `.gitignore` files to specify intentionally untracked fi
 ## Specific Files
 
 — Ignores the `config.js` file located in the root directory
-— Ignores any file named `secret.env`
+— Ignores any file named `.env`
